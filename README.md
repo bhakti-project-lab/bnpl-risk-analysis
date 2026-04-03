@@ -34,18 +34,18 @@ _Risk Simulation_
 3. Compared portfolio performance before and after filtering
 
 **Key Results**
-Default Rate reduced from 21.6% → 9.46%
-Total Loss reduced by ~97% (₹5.04 Cr → ₹0.14 Cr)
-Profit per loan improved from -₹1599 → -₹57
-Loan volume reduced by ~20% (highlighting growth vs risk trade-off)
+1. Default Rate reduced from 21.6% → 9.46%
+2. Total Loss reduced by ~97% (₹5.04 Cr → ₹0.14 Cr)
+3. Profit per loan improved from -₹1599 → -₹57
+4. Loan volume reduced by ~20% (highlighting growth vs risk trade-off)
 
 **Key Insights**
-High loan-to-income ratio (>30%) is the strongest driver of defaults
-Past defaulters show significantly higher repeat default rates
-Revenue leakage is caused by overexposure to high-risk borrowers, not low income alone
-Risk-based approval strategies can significantly improve portfolio stability
+1. High loan-to-income ratio (>30%) is the strongest driver of defaults
+2. Past defaulters show significantly higher repeat default rates
+3. Revenue leakage is caused by overexposure to high-risk borrowers, not low income alone
+4. Risk-based approval strategies can significantly improve portfolio stability
 
 **Tools & Technologies**
-Python: Pandas, NumPy, Scikit-learn
-SQL: Data segmentation & aggregation
-Jupyter Notebook: Analysis & modeling
+1. Python: Pandas, NumPy, Scikit-learn
+2. SQL: Data segmentation & aggregation
+3. Jupyter Notebook: Analysis & modeling
